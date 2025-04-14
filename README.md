@@ -5,14 +5,6 @@
 🌍 Based in Jakarta, Indonesia
 ---
 
-## 🚀 About Me
-
-I'm a tech enthusiast with hands-on experience in developing dynamic, user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Currently expanding my knowledge in full-stack development, cloud systems, and product design.
-
-I thrive in team environments, love learning new tools and tech, and am always up for a challenge.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
