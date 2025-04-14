@@ -1,6 +1,6 @@
 # Hi there, Reynard Renato here! 👋
 
-🎓 **Final-Year Computer Science Student** at BINUS University
+🎓 **Final-Year Computer Science Student** at BINUS University 
 💻 Passionate Front-End Developer | Future Software Engineer  
 🌍 Based in Jakarta, Indonesia  
 
