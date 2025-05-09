@@ -7,13 +7,10 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
+  
+Final-year Computer Science student with a strong foundation in front-end development, full-stack web applications, and automation testing. Experienced in building scalable user interfaces and implementing test automation. Passionate about clean code, product quality, and continuous learning in fast-paced, collaborative environments.
 
-I'm a tech enthusiast with hands-on experience in building dynamic, user-centric web applications. I enjoy transforming complex ideas into simple, engaging solutions—whether it’s through UI design, full-stack development, or automation testing.
-
-Beyond front-end development, I'm deeply interested in product quality and user behavior. I recently developed an automated testing suite using **Selenium WebDriver** and **TestNG** for an e-commerce platform, where I simulated real-user actions and prioritized key workflow validations. This sparked my passion for **automation**, **data-driven product improvement**, and **QA efficiency**.
-
-I thrive in collaborative environments, continuously learn new technologies, and love tackling meaningful product challenges that enhance user experiences.
 
 ---
 
