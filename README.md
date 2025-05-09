@@ -1,20 +1,25 @@
 # Hi there, Reynard Renato here! 👋
 
 🎓 Final-Year Computer Science Student at BINUS University  
-💻 Passionate Front-End Developer | Future Software Engineer  
-🌍 Based in Jakarta, Indonesia
+💻 Passionate Front-End Developer | Future Software Engineer | Aspiring Product Technologist  
+🌍 Based in Jakarta, Indonesia  
+🔧 Enthusiast in Automation Testing & Data-Driven UX
+
 ---
 
 ## 🚀 About Me
 
-I'm a tech enthusiast with hands-on experience in developing dynamic, user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Currently expanding my knowledge in full-stack development, cloud systems, and product design.
+I'm a tech enthusiast with hands-on experience in building dynamic, user-centric web applications. I enjoy transforming complex ideas into simple, engaging solutions—whether it’s through UI design, full-stack development, or automation testing.
 
-I thrive in team environments, love learning new frameworks, tools and tech, and am always up for a challenge.
+Beyond front-end development, I'm deeply interested in product quality and user behavior. I recently developed an automated testing suite using **Selenium WebDriver** and **TestNG** for an e-commerce platform, where I simulated real-user actions and prioritized key workflow validations. This sparked my passion for **automation**, **data-driven product improvement**, and **QA efficiency**.
+
+I thrive in collaborative environments, continuously learn new technologies, and love tackling meaningful product challenges that enhance user experiences.
 
 ---
+
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
+### Languages & Frameworks  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
@@ -26,18 +31,23 @@ I thrive in team environments, love learning new frameworks, tools and tech, and
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
 
-**Styling & UI:**  
+### Styling & UI  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**Databases & Tools:**  
+### Automation Testing & Tools  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
+![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=flat&logo=testng&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![DBeaver](https://img.shields.io/badge/DBeaver-8C929D?style=flat&logo=dbeaver&logoColor=white)
 
 ---
